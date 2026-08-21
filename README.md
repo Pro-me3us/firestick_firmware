@@ -1,4 +1,4 @@
-## FireTV 2nd gen 4k & Max (Karat) Firmware
+## FireTV 2nd gen 4k & Max (Karat & Mantra) Firmware
 Official Amazon download links for full.  
 
 For other FireTV device firmware visit the following:<br> 
