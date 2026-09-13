@@ -1,6 +1,4 @@
-## FireTV 2nd gen 4k & Max (Karat & Mantra) Firmware
-Official Amazon download links for full.  
-
+### Official Amazon download links for full.  
 For other FireTV device firmware visit the following:<br> 
 
 
@@ -9,9 +7,10 @@ For other FireTV device firmware visit the following:<br>
 <a href="https://gist.github.com/JulyIghor/d3d3dd460527a1d2b5b67954160d4abf">4K Stick</a> (mantis - 2018)<br>
 <a href="https://github.com/Pro-me3us/raven_firmware">2nd gen Cube</a> (raven - 2019)<br>
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-lite-3-sheldon-p-firmware.4413597/">3rd gen Stick</a> (sheldon/p - 2020)<br>
-<a href="https://forum.xda-developers.com/t/fire-tv-stick-4k-max-kara-firmware-7-2-8-5-diff.4428871/">4K Max Stick</a> (kara - 2021)<br>
+<a href="#firetv-4k-max-kara-firmware">4K Max Stick</a> (kara - 2021)<br>
 <a href="https://github.com/Pro-me3us/gazelle_firmware">3rd gen Cube</a> (gazelle - 2022)<br>
 
+## FireTV 2nd gen 4k & Max (Karat & Mantra) Firmware
 ### Full Firmware Update
 | Date | Version | Download | Size | MD5 |
 |:----:|:-------:|:--------:|:----:|:---:|
@@ -29,3 +28,36 @@ For other FireTV device firmware visit the following:<br>
 | 2026-07-07 | Fire OS 8.1.8.0 (RS8180.3729N/3729) | [update-kindle-karat-RS8180_user_3729_0032280318340.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/7/bcb6fdf5-50cf-4dc1-a307-57e5c8df3360/update-kindle-karat-RS8180_user_3729_0032280318340.bin) | 737.0MB | d44b9f5382e8497bd750ee5c1752d618 |
 | 2026-07-28 | Fire OS 8.1.8.0 (RS8180.3739N/3739) | [update-kindle-karat-RS8180_user_3739_0032280320900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/28/7d9c94d2-3f5f-45eb-a5de-706028e3edbf/update-kindle-karat-RS8180_user_3739_0032280320900.bin) | 736.8MB | 82bb0336b0cd3205476b4ee795136afd |
 | 2026-08-17 | Fire OS 8.1.8.2 (RS8182.3811N/3811) | [update-kindle-karat-RS8182_user_3811_0032548774788.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/17/6b5b010d-ab55-4b17-8247-6870c688776e/update-kindle-karat-RS8182_user_3811_0032548774788.bin) | 748.9MB | fcaf730cf8bfee8bc50788e24ed65d2d |
+
+
+## FireTV 4K Max (Kara) Firmware
+### Full Firmware Update
+| Date | Version | Download | Size | MD5 |
+|:----:|:-------:|:--------:|:----:|:---:|
+| 2022-03-24 | FireOS 7.2.7.3 (PS7273.2625) | [update-kindle-kara-PS7273_user_2625_0022851240324.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/dc64e6a705f8e840217c98b2217938f2/update-kindle-kara-PS7273_user_2625_0022851240324.bin) | 790.2MB | 0741cd9b3c663ff1d10be80e2b20fd64 |
+| 2022-04-07 | FireOS 7.2.7.9 (PS7279.2766) | [update-kindle-kara-PS7279_user_2766_0023253929604.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b4d1a7e9002b58474b576ff1a0c62377/update-kindle-kara-PS7279_user_2766_0023253929604.bin) | 781.0MB | 104267677211715acdd220e21a93bc45 |
+| 2022-05-26 | FireOS 7.2.8.5 (PS7285.2877) | [update-kindle-kara-PS7285_user_2877_0023723720068.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8332cb7d78b7ce1b45717ae6532fcb64/update-kindle-kara-PS7285_user_2877_0023723720068.bin) | 774.2MB | a9e00f8a969bca75616bbd49663aa788 |
+| 2022-07-28 | FireOS 7.2.9.2 (PS7292.2982) | [update-kindle-kara-PS7292_user_2982_0024126400132.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0502550ca009c583d4f9ec54517abc3f/update-kindle-kara-PS7292_user_2982_0024126400132.bin) | 770.0MB | 5f92c659e437da7a80e0467e9b5502bd |
+| 2022-11-19 | FireOS 7.6.1.4 (PS7614.3227) | [update-kindle-kara-PS7614_user_3227_0025938402180.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e023e31f2ee872ae9fbb12069d205112/update-kindle-kara-PS7614_user_3227_0025938402180.bin) | 776.3MB | 33b508c527e128d1ad9cb89ca210f9ef |
+| 2023-02-01 | FireOS 7.6.2.4 (PS7624.3338) | [update-kindle-kara-PS7624_user_3338_0026810845828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/45b68e4d00127a097ce853891b301c08/update-kindle-kara-PS7624_user_3338_0026810845828.bin) | 753.8MB | 32a1ff0321349b935384c62686a18ca2 |
+| 2023-08-26 | FireOS 7.6.5.2 (PS7652.3564) | [update-kindle-kara-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/44c238a9762287285211e7a3812b5df4/update-kindle-kara-PS7652_user_3564_0028488625284.bin) | 736.3MB | 222cd44bb12be68f357c56638310f3cd |
+| 2023-12-27 | FireOS 7.6.6.8 (PS7668.3894) | [update-kindle-kara-PS7668_user_3894_0029562451588.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/27/7c39b4fc-27b6-4510-a673-3503af76f6f2/update-kindle-kara-PS7668_user_3894_0029562451588.bin) | 750.2MB | 441081e2db7684a014705e1c3dd83b48 |
+| 2024-02-01 | FireOS 7.6.6.9 (PS7669.4007) | [update-kindle-kara-PS7669_user_4007_0029696698244.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/1/b72caf54-b18d-432e-83f6-806b4cb4b30b/update-kindle-kara-PS7669_user_4007_0029696698244.bin) | 759.9MB | c92f244fe93443fd8cc9f456098d13e9 |
+| 2024-04-16 | FireOS 7.6.7.1 (PS7671.4097) | [update-kindle-kara-PS7671_user_4097_0029965156740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/16/acec977c-a75f-4dda-be73-832454fc69f9/update-kindle-kara-PS7671_user_4097_0029965156740.bin) | 765.4MB | c628daeb6dbc121e36614ec204d8f83c |
+| 2024-05-18 | FireOS 7.6.7.3 (PS7673.4183) | [update-kindle-kara-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/18/0da47ddf-1763-44d1-b6ca-ba1c19885a41/update-kindle-kara-PS7673_user_4183_0030367831940.bin) | 768.6MB | 4f03140d62163db0a363c2037948e0af |
+| 2024-07-08 | FireOS 7.6.7.9 (PS7679.4292) | [update-kindle-kara-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/a85fcebe-1380-4fc8-b736-62aa691df0a4/update-kindle-kara-PS7679_user_4292_0030971839620.bin) | 769.3MB | 332e181f839bb03c6358c43ddf11613d |
+| 2024-09-02 | FireOS 7.6.8.1 (PS7681.4384) | [update-kindle-kara-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/41be363c-bebf-4749-8074-7a796b30e198/update-kindle-kara-PS7681_user_4384_0031106080900.bin) | 770.2MB | bb2d65d44cda40c9a4ffabb814dd4733 |
+| 2024-10-30 | FireOS 7.6.8.5 (PS7685.4486) | [update-kindle-kara-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/a64acac4-e9a7-4012-ad42-25ff2a12fe30/update-kindle-kara-PS7685_user_4486_0031642977924.bin) | 772.2MB | b7e611f09e4efbd501dcfa466c88a010 |
+| 2025-01-11 | FireOS 7.6.8.8 (PS7688.4591) | [update-kindle-kara-PS7688_user_4591_0032112766852.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/11/b3451c54-4a4c-4ba6-873a-a685c61b93b7/update-kindle-kara-PS7688_user_4591_0032112766852.bin) | 779.2MB | 31abd2fa0f997e8b85244b9452bcc274 |
+| 2025-03-19 | FireOS 7.6.9.0 (PS7690.4716) | [update-kindle-kara-PS7690_user_4716_0032381234308.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/19/ea22bf37-d456-42aa-8e9a-8ad910ac131c/update-kindle-kara-PS7690_user_4716_0032381234308.bin) | 768.2MB | ccb0bb73db03562e54b2a2079c3e01c9 |
+| 2025-04-16 | FireOS 7.6.9.7 (PS7697.4800) | [update-kindle-kara-PS7697_user_4800_0032783908996.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/4/16/7fb600dc-fb2d-441d-870d-fcbe97fb9c95/update-kindle-kara-PS7697_user_4800_0032783908996.bin) | 773.9MB | fab079aca40d23a8a0a3adbd9cf56be2 |
+| 2025-05-30 | FireOS 7.6.9.9 (PS7699.4894) | [update-kindle-kara-PS7699_user_4894_0033052368516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/30/2aa3eb57-623b-476d-a00e-cdcb24b49df7/update-kindle-kara-PS7699_user_4894_0033052368516.bin) | 771.9MB | bc500fb8f6c003e80c1d0ff1b20f1102 |
+| 2025-06-22 | FireOS 7.6.9.9 (PS7699.4896) | [update-kindle-kara-PS7699_user_4896_0033052369028.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/22/e2461db7-34c8-45ce-b8ed-b45bb93b1d05/update-kindle-kara-PS7699_user_4896_0033052369028.bin) | 770.5MB | e74a1098153c430f5e1c558d9c390a18 |
+| 2025-07-17 | FireOS 7.7.0.2 (PS7702.4965) | [update-kindle-kara-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/d806894c-3cdc-4e7c-b896-e44be253e71c/update-kindle-kara-PS7702_user_4965_0033455039876.bin) | 769.2MB | 63e36b49a7a60bf106220cb0df84d3aa |
+| 2025-08-18 | FireOS 7.7.0.4 (PS7704.5024) | [update-kindle-kara-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/4375e579-318f-48a7-bcbc-fb0987e95bd5/update-kindle-kara-PS7704_user_5024_0033723490436.bin) | 766.4MB | 7ffdea0064dc12144cdde8e3f21a6d63 |
+| 2025-09-29 | FireOS 7.7.0.6 (PS7706.5106) | [update-kindle-kara-PS7706_user_5106_0033924838020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/9/29/8c651c4b-608b-4b27-b36a-a4452e953165/update-kindle-kara-PS7706_user_5106_0033924838020.bin) | 780.1MB | 156df9eb4e02430c354181a000853e77 |
+| 2025-11-23 | FireOS 7.7.0.8 (PS7708.5501) | [update-kindle-kara-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/23/57edee07-19ca-470a-934f-96337e088494/update-kindle-kara-PS7708_user_5501_0034394701188.bin) | 738.8MB | 5fa26459e9e73beba9a5e6d7cac2eab5 |
+| 2026-01-07 | FireOS 7.7.1.1 (PS7711.5272) | [update-kindle-kara-PS7711_user_5272_0034763741316.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/1/7/3e1b2541-3231-498c-95ba-ca60c79cae63/update-kindle-kara-PS7711_user_5272_0034763741316.bin) | 737.7MB | 035dd7b4d8661bc396e028ad70900439 |
+| 2026-02-27 | FireOS 7.7.1.2 (PS7712.5372) | [update-kindle-kara-PS7712_user_5372_0035199974532.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/27/86411d84-6ac8-4d8b-a573-41f2d7121d18/update-kindle-kara-PS7712_user_5372_0035199974532.bin) | 735.3MB | 05e5cab4626ad5e672533c9d0e38182a |
+| 2026-04-09 | FireOS 7.7.1.3 (PS7713.5443) | [update-kindle-kara-PS7713_user_5443_0035334210436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/4/9/1285306b-9570-4e34-950d-60940f84014b/update-kindle-kara-PS7713_user_5443_0035334210436.bin) | 736.7MB | fe30a8c7af93bbcf848905794c60ddf7 |
+
